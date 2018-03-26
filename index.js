@@ -1,3 +1,6 @@
+var Game = require("./MyConstructors/game.js");
 
+var game = new Game();
 
-//==================== ATTENTION: NOT YET COMPLETE. . WORKING THROUGH IT TODAY!! =========================//
+game.play();
+
